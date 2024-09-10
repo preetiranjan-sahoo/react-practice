@@ -41,7 +41,3 @@ export const NetflixSeries = () => {
     </>
   );
 };
-
-export const Footer = () => {
-  return <p>copyright @banty</p>;
-};
